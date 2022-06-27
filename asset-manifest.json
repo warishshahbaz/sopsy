@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sopsy/static/css/main.f4acd517.css",
+    "main.js": "/sopsy/static/js/main.b5a7defb.js",
+    "static/media/img2.png": "/sopsy/static/media/img2.b63fd888edea0326b395.png",
+    "static/media/groc.png": "/sopsy/static/media/groc.4f6e88dd03b9d99898e9.png",
+    "static/media/pic6.png": "/sopsy/static/media/pic6.0caf47b518296552bce9.png",
+    "static/media/pic1.png": "/sopsy/static/media/pic1.e80f5747bc867915beef.png",
+    "index.html": "/sopsy/index.html",
+    "main.f4acd517.css.map": "/sopsy/static/css/main.f4acd517.css.map",
+    "main.b5a7defb.js.map": "/sopsy/static/js/main.b5a7defb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4acd517.css",
+    "static/js/main.b5a7defb.js"
+  ]
+}
